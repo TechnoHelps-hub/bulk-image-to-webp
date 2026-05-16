@@ -23,3 +23,23 @@ Check out our web platform for direct, zero-friction access to over **100+ Free 
 Make sure you have Python installed, then install the required `Pillow` library:
 ```bash
 pip install Pillow
+
+2. How to Use
+
+    Clone this repository or download the script.
+
+    Create a folder named input_images in the same directory and drop your images there.
+
+    Run the script:
+
+Bash
+
+python converter.py
+
+    Your optimized web-ready images will instantly appear inside the newly created output_webp folder!
+
+📄 License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+For more powerful multimedia and digital suites, visit TechnoHelps.com.
